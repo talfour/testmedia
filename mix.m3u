@@ -1,0 +1,1265 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Undefined",4FUN TV (576p) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="AlfaTVP.pl" tvg-logo="https://i.imgur.com/WwE7fhC.png" group-title="General",Alfa TVP (1080p)
+https://irylek.ct8.pl/stream/alfatvp
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst (1080p)
+https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
+#EXTINF:-1 tvg-id="BTBHD.pl" tvg-logo="https://i.imgur.com/U8mcRal.png" group-title="General",Bombaska Telewizja Boża (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCNmXUDT4hoiHhtzPvCfJOeQ.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel
+http://109.233.89.170/Disney_Channel/mono.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
+http://109.233.89.166/Disney_Junior/mono.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD (576p)
+http://178.219.128.68:64888/DISNXD
+#EXTINF:-1 tvg-id="dlaCiebietv.pl" tvg-logo="https://i.imgur.com/Tf32BJa.png" group-title="Undefined",dlaCiebie.tv (1080p) [Not 24/7]
+http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
+https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
+https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
+#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="Religious",EWTN Poland (1080p)
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EzoTV.pl" tvg-logo="https://i.imgur.com/sUVgn4V.png" group-title="Undefined",Ezo TV (576p) [Not 24/7]
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPolska.pl" tvg-logo="https://hopechannel.pl/wp-content/uploads/2017/10/HCh_logo3.png" group-title="Religious",Hope Channel Polska (720p) [Not 24/7]
+https://stream.hopechannel.pl/livetv/colombo/hope.m3u8
+#EXTINF:-1 tvg-id="HTSSlubice.pl" tvg-logo="https://i.imgur.com/tnUSXdK.png" group-title="General",HTS Słubice (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCENo4wEDe_59Bb8rGGMZl_w.m3u8
+#EXTINF:-1 tvg-id="KTVSerbinow.pl" tvg-logo="https://i.ibb.co/LxD181B/Logo-Kwadrat-Rewers.png" group-title="Religious",Katolicka Telewizja Serbinów (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcYdi3Y11OndqAYkGhLsm8A.m3u8
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr. Poland (576i)
+http://178.219.128.68:64888/NICKJR
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-shift="3 minutes" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="Undefined",Polsat (1080p) [Geo-blocked]
+https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="Entertainment",Radio Czwórka (1080p)
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVP.pl" tvg-logo="https://i.imgur.com/slyxgyO.png" group-title="News",RTV Podlasie (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCU7uwCYami150L_lydp2OHQ.m3u8
+#EXTINF:-1 tvg-id="SferaTV.pl" tvg-logo="https://i.imgur.com/aK7xfKi.png" group-title="Undefined",Sfera TV (480p) [Not 24/7]
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Business",Telewizja Biznesowa (1080p)
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaGorzow.pl" tvg-logo="https://i.imgur.com/z3pmipz.png" group-title="General",Telewizja Gorzów (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCt5sVDyzu0NhrjR-d_b-lhg.m3u8
+#EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="General",Telewizja Lubań (720p) [Not 24/7]
+http://stream.herissons.cloud/hls/tvluban.m3u8
+#EXTINF:-1 tvg-id="TelewizjaNarew.pl" tvg-logo="https://i.imgur.com/RevNbUo.png" group-title="General",Telewizja Narew (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCdBYAZdagaQcr-Fe15ifMPQ.m3u8
+#EXTINF:-1 tvg-id="TelewizjaOlsztyn.pl" tvg-logo="https://i.imgur.com/Gy3KZly.png" group-title="General",Telewizja Olsztyn (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC0vwjMGoZpwG_lLBuF6_ALA.m3u8
+#EXTINF:-1 tvg-id="TelewizjaPograniczeGlubczyce.pl" tvg-logo="https://i.imgur.com/qqv9Nbj.png" group-title="Undefined",Telewizja Pogranicze Glubczyce (720p)
+https://stream.elzappero.net/tvglubczyce.m3u8
+#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="General",Telewizja Regionalna Żary (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC29dc_mBUWW4mz5h754v88w.m3u8
+#EXTINF:-1 tvg-id="TelewizjaRelax.pl" tvg-logo="https://i.imgur.com/dejnH0O.png" group-title="General",Telewizja Relax (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCZvmZep3wknWdBPcKnwsPHA.m3u8
+#EXTINF:-1 tvg-id="TelewizjaSudecka.pl" tvg-logo="https://i.imgur.com/F15Kl1k.png" group-title="General",Telewizja Sudecka (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC2vPjreaN9Jpan45p66H7hA.m3u8
+#EXTINF:-1 tvg-id="TelewizjaTorun.pl" tvg-logo="https://i.imgur.com/UNwzRHN.png" group-title="Undefined",Telewizja Toruń (1080p) [Not 24/7]
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:-1 tvg-id="TelewizjaZabrze.pl" tvg-logo="https://i.imgur.com/O9eDefP.png" group-title="General",Telewizja Zabrze (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCyQL0IjtptnQ9PxmAfH3fKQ.m3u8
+#EXTINF:-1 tvg-id="TrusoTV.pl" tvg-logo="https://i.imgur.com/GUsauxk.png" group-title="News",Truso TV (576p) [Not 24/7]
+https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.pl" tvg-shift="3 minutes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Undefined",TV4 (1080p) [Geo-blocked]
+https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:-1 tvg-id="TVASTA.pl" tvg-logo="https://i.imgur.com/5g7lq9N.png" group-title="General",TV ASTA (720p)
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDami.pl" tvg-logo="https://i.imgur.com/FlEMW5F.png" group-title="General",TV Dami (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8
+#EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="General",TV Imperium (1080p) [Not 24/7]
+https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaJaslo.pl" tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="General",TV Jasło (720p)
+https://cdn02.sesja.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKujawy.pl" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="Undefined",TV Kujawy (576p) [Not 24/7]
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="Undefined",TV Regionalna Lubin (576p) [Not 24/7]
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="Undefined",TV Republika (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
+#EXTINF:-1 tvg-id="TVSlowianin.pl" tvg-logo="https://i.ibb.co/xM9nCym/logo-na-strone.png" group-title="General",TV Słowianin (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8
+#EXTINF:-1 tvg-id="TVTorun.pl" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="Undefined",TV Toruń (1080p) [Not 24/7]
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="Undefined",TV Trwam (576p)
+https://trwamtv.cf.insyscd.net/trwamtv.live/live/eds/tv-trwam/hls_fta/tv-trwam.m3u8
+#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-shift="3 hours" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="Undefined",TV Trwam (1080p) [Geo-blocked]
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:-1 tvg-id="TVWielkopolska.pl" tvg-logo="https://i.imgur.com/uh46ZOy.png" group-title="News",TV Wielkopolska (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCVItG8Ke6xMGhQAi8HP5WCg.m3u8
+#EXTINF:-1 tvg-id="TVMN.pl" tvg-logo="https://i.imgur.com/QjmtXxU.jpeg" group-title="News",TVMN (1080p)
+https://r.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Undefined",TVP2 (1080p)
+https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-logo="https://i.imgur.com/zPSpvss.jpg" group-title="Undefined",TVP 3 Białystok (576p)
+https://cdndai.pl/tvp3bialystoksd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" group-title="Undefined",TVP 3 Bydgoszcz (576p)
+https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Gdansk.pl" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" group-title="Undefined",TVP 3 Gdańsk (576p)
+https://cdndai.pl/tvp3gdansksd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" group-title="Undefined",TVP 3 Gorzów Wielkopolski (576p)
+https://cdndai.pl/tvp3gorzowsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="Undefined",TVP 3 Katowice (576p)
+https://cdndai.pl/tvp3katowicesd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Kielce.pl" tvg-logo="https://i.imgur.com/YcQxM94.jpg" group-title="Undefined",TVP 3 Kielce (576p)
+https://cdndai.pl/tvp3kielcesd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Krakow.pl" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" group-title="Undefined",TVP 3 Kraków (576p)
+https://cdndai.pl/tvp3krakowsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Lodz.pl" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" group-title="Undefined",TVP 3 Łódź (576p)
+https://cdndai.pl/tvp3lodzsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Lublin.pl" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" group-title="Undefined",TVP 3 Lublin (576p)
+https://cdndai.pl/tvp3lublinsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Olsztyn.pl" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" group-title="Undefined",TVP 3 Olsztyn (576p)
+https://cdndai.pl/tvp3olsztynsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Opole.pl" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" group-title="Undefined",TVP 3 Opole (576p)
+https://cdndai.pl/tvp3opolesd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Poznan.pl" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" group-title="Undefined",TVP 3 Poznań (576p)
+https://cdndai.pl/tvp3poznansd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Rzeszow.pl" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" group-title="Undefined",TVP 3 Rzeszów (576p)
+https://cdndai.pl/tvp3rzeszowsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Szczecin.pl" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" group-title="Undefined",TVP 3 Szczecin (576p)
+https://cdndai.pl/tvp3szczecinsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="Undefined",TVP 3 Warszawa (1080p)
+https://irylek.ct8.pl/stream/tvp3warszawahd
+#EXTINF:-1 tvg-id="TVP3Wroclaw.pl" tvg-logo="https://i.imgur.com/0em2QIh.jpg" group-title="Undefined",TVP 3 Wrocław (576p)
+https://cdndai.pl/tvp3wroclawsd/index.m3u8
+#EXTINF:-1 tvg-id="TVPABC2.pl" tvg-logo="https://i.imgur.com/Ur7CUAh.png" group-title="Kids",TVP ABC 2 (1080p)
+https://irylek.ct8.pl/stream/tvpabc2
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-logo="https://i.imgur.com/wP2mpfM.png" group-title="Kids",TVP ABC (1080p)
+https://irylek.ct8.pl/stream/tvpabc
+#EXTINF:-1 tvg-id="TVPDokument.pl" tvg-logo="https://i.imgur.com/oQUNtzs.png" group-title="Undefined",TVP Dokument (1080p)
+https://irylek.ct8.pl/stream/tvpdokument
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-logo="https://i.imgur.com/Bc4QZiy.png" group-title="Undefined",TVP Historia (1080p)
+https://irylek.ct8.pl/stream/tvphistoria
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="Undefined",TVP Info (1080p)
+https://irylek.ct8.pl/stream/tvpinfo
+#EXTINF:-1 tvg-id="TVPKobieta.pl" tvg-shift="30 minutes" tvg-logo="https://i.imgur.com/aAH98qO.png" group-title="Undefined",TVP Kobieta (1080p) [Geo-blocked]
+https://irylek.ct8.pl/stream/tvpkobieta
+#EXTINF:-1 tvg-id="TVPKultura2.pl" tvg-logo="https://i.imgur.com/hXAUpMj.png" group-title="Culture",TVP Kultura 2 (1080p)
+https://irylek.ct8.pl/stream/tvpkultura2
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-logo="https://i.imgur.com/JU858Es.png" group-title="Undefined",TVP Kultura (1080p)
+https://irylek.ct8.pl/stream/tvpkultura
+#EXTINF:-1 tvg-id="TVPNauka.pl" tvg-logo="https://i.imgur.com/ga5Z8jf.png" group-title="Undefined",TVP Nauka (1080p)
+https://irylek.ct8.pl/stream/tvpnauka
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png" group-title="Undefined",TVP Polonia (1080p)
+https://irylek.ct8.pl/stream/tvppolonia
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-logo="https://i.imgur.com/05Vx5px.png" group-title="Undefined",TVP Rozrywka (1080p)
+https://irylek.ct8.pl/stream/tvprozrywka
+#EXTINF:-1 tvg-id="TVPWilno.pl" tvg-logo="https://i.imgur.com/8oORLGF.png" group-title="News",TVP Wilno (1080p)
+https://irylek.ct8.pl/stream/tvpwilno
+#EXTINF:-1 tvg-id="TVT.pl" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="Undefined",TVT (720p)
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="Undefined",TVT Zgorzelec (576p) [Not 24/7]
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="Undefined",wPolsce PL (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
+#EXTINF:-1 tvg-id="ZachodniopomorskaTelewizja.pl" tvg-logo="https://i.imgur.com/82YYrwK.png" group-title="General",Zachodniopomorska Telewizja (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCseu7OBsXzSg3sW1_Lfek9Q.m3u8
+#EXTINF:-1 tvg-name="TVP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/640px-TVP1_logo.svg.png" tvg-id="TVP1.pl" group-title="Poland",TVP1
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVP1
+#EXTINF:-1 tvg-name="TVP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/640px-TVP2_logo.svg.png" tvg-id="TVP2.pl" group-title="Poland",TVP2
+https://strims.top/tv/tvp2.m3u8
+#EXTINF:-1 tvg-name="TVP3 Warszawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TVP3_%282016%29.svg/640px-TVP3_%282016%29.svg.png" tvg-id="TVP3Warszawa.pl" group-title="Poland",TVP3 Warszawa
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVP3Warszawa
+#EXTINF:-1 tvg-name="TVP Polonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/640px-TVP_Polonia_Logo_2020.svg.png" tvg-id="TVPPolonia.pl" group-title="Poland",TVP Polonia
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPPolonia
+#EXTINF:-1 tvg-name="Alfa TVP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alfa_TVP_%282022%29.svg/640px-Alfa_TVP_%282022%29.svg.png" tvg-id="AlfaTVP.pl" group-title="Poland",Alfa TVP
+https://www.tvkaista.net/stream-forwarder/get.php?x=AlfaTVP
+#EXTINF:-1 tvg-name="TVP Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/640px-TVP_Info_logo.svg.png" tvg-id="TVPInfo.pl" group-title="Poland",TVP Info
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPInfo
+#EXTINF:-1 tvg-name="Belsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/768px-Belsat_%282022%29.svg.png" tvg-id="BelsatTV.pl" group-title="Poland",Belsat
+http://149.5.17.34:20041/play/a076
+#EXTINF:-1 tvg-name="TVP World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/640px-TVP_World_%282021%29.svg.png" tvg-id="TVPWorld.pl" group-title="Poland",TVP World
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPWorld
+#EXTINF:-1 tvg-name="TVP ABC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TVP_ABC_2_%282022%29.svg/640px-TVP_ABC_2_%282022%29.svg.png" tvg-id="TVPABC2.pl" group-title="Poland",TVP ABC 2
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2
+#EXTINF:-1 tvg-name="TVP Historia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVP_Historia_2_%282021%29.svg/640px-TVP_Historia_2_%282021%29.svg.png" tvg-id="TVPHistoria2.pl" group-title="Poland",TVP Historia 2
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2
+#EXTINF:-1 tvg-name="TVP Kultura 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TVP_Kultura_2_%282020%29.svg/640px-TVP_Kultura_2_%282020%29.svg.png" tvg-id="TVPKultura2.pl" group-title="Poland",TVP Kultura 2
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
+#EXTINF:-1 tvg-name="4fun.tv Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/640px-4fun.tv_Logo_%282017%29.svg.png" tvg-id="4FunTV.pl" group-title="Poland",4fun.tv Ⓢ
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-name="TV Republika" tvg-logo="https://i.imgur.com/ljpK6dZ.png" tvg-id="TVRepublika.pl" group-title="Poland",TV Republika
+https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8
+#EXTM3U8 url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",✦●✦●      POLSKA      ✦●✦●
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=197028&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",TVP UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17538&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP1.png",TVP 1 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17544&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP2.png",TVP 2 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17542&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP3.png",TVP 3 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17541&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSERIALE.png",TVP SERIALE UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17532&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN.png",TVN UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17552&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN7.png",TVN 7 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17556&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17625&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT2.png",POLSAT 2 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17633&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",TV PULS UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17564&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PULS2.png",PULS 2 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17593&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV4HD.png",TV4 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17561&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TTV.png",TTV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17566&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNTURBO.png",TVN TURBO UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17548&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",TVP INFO UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17535&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png",TVN 24 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17558&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png",TVN24 BIS UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17546&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/1WgsBUQ.png",TV TRWAM
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=612541&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png",POLSAT NEWS UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17620&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS2.png",POLSAT NEWS 2 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17622&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNSTYLE.png",TVN STYLE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17550&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV6.png",TV6 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17560&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVREPUBLIKA.png",TV REPUBLIKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17563&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATPLAY.png",POLSAT PLAY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17618&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATCAFE.png",POLSAT CAFE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17631&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERPOLSAT.png",SUPER POLSAT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17579&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png",POLSAT RODZINA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135094&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNFABULA.png",TVN FABULA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17554&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png",POLSAT GAMES UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135087&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png",CANAL+ 4K
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=295665&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSEUROPAHD.png",CBS EUROPA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135019&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSREALITY.png",CBS REALITY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17745&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SCIFIHD.png",SCIFI UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17587&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOX.png",FX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17689&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",FX COMEDY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17691&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/13ULICAHD.png",13 ULICA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17793&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/E!ENTERTAINMENT.png",E! ENTERTAINMENT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17725&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVS.png",TVS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=137418&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STOPKLATKATV.png",STOPKLATKA TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17583&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERSTACJA.png",SUPER STACJA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135115&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOKUSTV.png",FOKUS TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17695&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/METRO.png",METRO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17664&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NOWATV.png",NOWA TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17645&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WP.png",WP UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17525&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",DTX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=124722&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ZOOMTV.png",ZOOM TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17524&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png",BBC BRIT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=139865&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png",BBC LIFESTYLE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=139867&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ADVENTUREHD.png",ADVENTURE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17788&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DOMOHD.png",DOMO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135033&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/HGTVHD.png",HGTV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17681&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KUCHNIAHD.png",KUCHNIA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17668&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",STUDIO MED TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135112&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ROMANCETV.png",ROMANCE TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17589&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/LIFETIMEHD.png",LIFETIME UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17666&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUNDANCEHD.png",SUNDANCE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17581&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MOTOWIZJATVHD.png",MOTOWIZJA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17660&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DTX.png",DTX UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17727&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POWERTV.png",POWER TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17594&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ACTIVEFAMILY.png",ACTIVE FAMILY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17790&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VH1.png",VH1 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17527&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPROZRYWKA.png",TVP ROZRYWKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17533&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ATM ROZRYWKA TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=134999&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",✦●✦●      MUSIC      ✦●✦●
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=197031&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MTVPOLSKA.png",MTV POLSKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17656&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLOTV.png",POLO TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17635&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUN.TV.png",4FUN TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17795&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATMUSIC.png",POLSAT MUSIC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135090&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VOXMUSIC.png",PL: |UHD| VOX MUSIC TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17526&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKAROCKTV.png",ESKA ROCK TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135043&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ESKA TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17714&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKATVEXTRA.png",ESKA TV EXTRA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17713&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOPOLOMUSIC.png",DISCO POLO MUSIC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135025&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNGOLDHITS.png",4FUN GOLD HITS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17791&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNDANCE.png",4FUN DANCE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17792&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATROMANS.png",POLSAT ROMANS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135095&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",TRACE TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135119&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/1280px-TVS_%28Fernsehsender%29_Logo.svg.png",TVS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339725&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.ibb.co/zHQ6wL5/LIVE-LOGO-PNG.png",CNN HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339766&extension=ts
+#EXTINF:-1 group-title="4K",TLC HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339769&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/bdr1XRi.png",TVN HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339771&extension=ts
+#EXTINF:-1 group-title="4K",TVN24 HD INTERNATIONAL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339773&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/Warner_TV_Poland_Logo.png",WARNER TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339775&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/LgM2YU7.png",TTV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339776&extension=ts
+#EXTINF:-1 group-title="4K",ZOOM TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339794&extension=ts
+#EXTINF:-1 group-title="4K",WP HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339795&extension=ts
+#EXTINF:-1 group-title="4K",ROMANCE TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339801&extension=ts
+#EXTINF:-1 group-title="4K",TELE5 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339811&extension=ts
+#EXTINF:-1 group-title="4K",STUDIOMED TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339812&extension=ts
+#EXTINF:-1 group-title="4K",CI POLSAT HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339840&extension=ts
+#EXTINF:-1 group-title="4K",POLSAT COMEDY CENTRAL EXTRA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339841&extension=ts
+#EXTINF:-1 group-title="4K",PARAMOUNT CHANNEL HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339842&extension=ts
+#EXTINF:-1 group-title="4K",AXN SPIN HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339845&extension=ts
+#EXTINF:-1 group-title="4K",BBC FIRST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339846&extension=ts
+#EXTINF:-1 group-title="4K",AMC
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339847&extension=ts
+#EXTINF:-1 group-title="4K",CBS REALITY
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339848&extension=ts
+#EXTINF:-1 group-title="4K",COMEDY CENTRAL POLSKA HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339849&extension=ts
+#EXTINF:-1 group-title="4K",EPIC DRAMA HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339851&extension=ts
+#EXTINF:-1 group-title="4K",SUNDANCE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339852&extension=ts
+#EXTINF:-1 group-title="4K",ROMANCE TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339853&extension=ts
+#EXTINF:-1 group-title="4K",NOVELA TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339854&extension=ts
+#EXTINF:-1 group-title="4K",TVN STYLE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339855&extension=ts
+#EXTINF:-1 group-title="4K",TLC HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339856&extension=ts
+#EXTINF:-1 group-title="4K",HGTV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339857&extension=ts
+#EXTINF:-1 group-title="4K",FOOD NETWORK HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339858&extension=ts
+#EXTINF:-1 group-title="4K",TVN TURBO
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339859&extension=ts
+#EXTINF:-1 group-title="4K",KINO POLSKA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339860&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png",MTV LIVE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339861&extension=ts
+#EXTINF:-1 group-title="4K",MTV 90
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339863&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/jHIOGn3.png",MTV HITS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339864&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="http://pic.qw1234.org/logos/tn_mtvdance.gif",MTV CLUB
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339865&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="http://focustv.xyz/files/ch/PORTEK%C4%B0Z/mtv_00s.png",MTV 80
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339866&extension=ts
+#EXTINF:-1 group-title="4K",TV REPUBLIKA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339871&extension=ts
+#EXTINF:-1 group-title="4K",WPOLSCE.PL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339872&extension=ts
+#EXTINF:-1 group-title="4K",TV OKAZJE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339874&extension=ts
+#EXTINF:-1 group-title="4K",4FUN KIDS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339876&extension=ts
+#EXTINF:-1 group-title="4K",AXN
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339878&extension=ts
+#EXTINF:-1 group-title="4K",BBC EARTH
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339880&extension=ts
+#EXTINF:-1 group-title="4K",E
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339886&extension=ts
+#EXTINF:-1 group-title="4K",MINIMINI+
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339890&extension=ts
+#EXTINF:-1 group-title="4K",MTV 90S
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339892&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/sC9zDZn.png",MTV HITS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339893&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/LPOMzbz.png",MTV LIVE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339894&extension=ts
+#EXTINF:-1 group-title="4K",MTV POLSKA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339895&extension=ts
+#EXTINF:-1 group-title="4K",NOVELAS+
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339896&extension=ts
+#EXTINF:-1 group-title="4K",NUTA.TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339897&extension=ts
+#EXTINF:-1 group-title="4K",PLANETE+
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339898&extension=ts
+#EXTINF:-1 group-title="4K",TVN 24 BIS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339900&extension=ts
+#EXTINF:-1 group-title="4K",TVP ABC
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339910&extension=ts
+#EXTINF:-1 group-title="4K",TVP HISTORIA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339912&extension=ts
+#EXTINF:-1 group-title="4K",TVP KULTURA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339914&extension=ts
+#EXTINF:-1 group-title="4K",TVT
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339944&extension=ts
+#EXTINF:-1 group-title="4K" tvg-logo="https://lo1.in/pol/tvtg.png",TVT ZGORZELEC
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339945&extension=ts
+#EXTINF:-1 group-title="4K",V EXPLORE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339946&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",✦●✦●      FILM      ✦●✦●
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=197030&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png",KINO POLSKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17673&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png",KINO POLSKA MUZYKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17672&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATFILM.png",POLSAT FILM UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17627&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO1.png",HBO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17687&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO2.png",HBO 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17685&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO3.png",HBO 3 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17683&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",AXN UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17780&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNWHITE.png",AXN WHITE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135004&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNBLACK.png",AXN BLACK UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135001&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNSPIN.png",AXN SPIN UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17778&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png",CANAL+ UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17764&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",CANAL+  1 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17752&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFAMILY.png",CANAL+  FAMILY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135009&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFILM.png",CANAL+ FILM UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17766&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALSERIALE.png",CANAL+ SERIALE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17762&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ALEKINO.png",ALE KINO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17787&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",VOD 205 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=139871&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",VOD 208 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=139874&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png",KINO TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17670&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXEXTRA.png",FILMBOX EXTRA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17700&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXPREMIUM.png",FILMBOX PREMIUM UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17697&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXACTION.png",FILMBOX ACTION UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135049&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXFAMILY.png",FILMBOX FAMILY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17699&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXARTHOUSE.png",FILMBOX ARTHOUSE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17702&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/EPICDRAMAHD.png",EPIC DRAMA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=137416&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",AMC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17784&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TNT.png",TNT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17573&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",CINEMAX UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17739&extension=ts
+#EXTINF:-1 group-title="KINO" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CINEMAX2.png",CINEMAX 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17741&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",✦●✦●      DOCU      ✦●✦●
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=215646&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TRAVELCHANNEL.png",TRAVEL CHANNEL UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17569&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",SCIFI
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=415994&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PARAMOUNTCHANNEL.png",PARAMOUNT CHANNEL UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17639&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATDOKU.png",POLSAT DOKU UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17629&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png",HISTORY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17677&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png",HISTORY 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=216595&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPHISTORIA.png",TVP HISTORIA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17537&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPKULTURA.png",TVP KULTURA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17534&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERYSCIENCE.png",DISCOVERY SCIENCE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17729&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERY.png",DISCOVERY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17734&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISCOVERYCHANNEL.png",DISCOVERY LIFE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135028&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOVERYHISTORIA.png",DISCOVERY HISTORIA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17733&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DAVINCI.png",DA VINCI UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17736&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PLANETEHD.png",PLANETE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17637&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NATGEOPEOPLEHD.png",NAT GEO PEOPLE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135076&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGCWILD.png",NATIONAL GEO WILD UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17650&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGC.png",NATIONAL GEO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17652&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BBCFIRST.png",BBC FIRST UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17774&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBCEARTH.png",BBC EARTH UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17776&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WATERPLANET.png",WATER PLANET UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=137421&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ID.png",ID UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17675&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATEXPLOREHD.png",POLSAT VIASAT EXPLORE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135102&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATHISTORY.png",POLSAT VIASAT HISTORY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17597&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATNATURE.png",POLSAT VIASAT NATURE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17595&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TLCHD.png",TLC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17575&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/FOODNETWORK.png",FOOD NETWORK UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17693&extension=ts
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STARSTV.png",STARS TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17584&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",✦●✦●      SPORT      ✦●✦●
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=197029&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTBOXHD.png",FIGHTBOX UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17705&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://orangebox.dynu.com:38093/Provip/Logotv/UFC.png",UFC FIGHT PASS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646741&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSPORT.png",TVP SPORT
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17530&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT1.png",EUROSPORT 1 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17711&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT2.png",EUROSPORT 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17709&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NSPORT+.png",NSPORT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17643&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SPORTKLUBHD.png",SPORTKLUB UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17585&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png",POLSAT SPORT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17613&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 1 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17609&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17607&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=271820&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=271821&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=271822&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT SPORT PREMIUM 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=271823&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTFIGHT.png",POLSAT SPORT FIGHT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=139869&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",LIGA KANAL 1 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646647&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",LIGA KANAL 2 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646648&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",LIGA KANAL 3 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646649&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",LIGA KANAL 4 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646650&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",LIGA KANAL 5 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646651&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",LIGA KANAL 6 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646652&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",EMOCJE TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646748&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",POLSAT BOX GO PPV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646747&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",PLAYLIVE PPV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646746&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",GROMDA TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646745&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",VIPMEDIA PVV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646744&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",PPV KSW / FAME (LIVE EVENT)
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646743&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",FAME MMA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646742&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",HIGH LEAGUE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646740&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",MMA ATTACKE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646739&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",WOTORE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646653&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",OKTAGON HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=646654&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORTHD.png",CANAL+  SPORT 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17754&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORT2HD.png",CANAL+ SPORT 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17760&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",CANAL+ SPORT 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135014&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13814.png?ver=45066",CANAL+ EXTRA 1 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=718137&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13814.png?ver=45066",CANAL+ EXTRA 1 ᵁᴴᴰ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=718138&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13815.png?ver=56917",CANAL+ EXTRA 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=718139&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13815.png?ver=56917",CANAL+ EXTRA 2 ᵁᴴᴰ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=718140&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13816.png?ver=27653",CANAL+ EXTRA 3 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=718142&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13816.png?ver=27653",CANAL+ EXTRA 3 ᵁᴴᴰ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=718141&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13818.png?ver=45692",CANAL+ EXTRA 4 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=718143&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13818.png?ver=45692",CANAL+ EXTRA 4 ᵁᴴᴰ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=718144&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png",CANAL+ SPORT 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=271819&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ELEVEN SPORTS 1 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17723&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ELEVEN SPORTS 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17721&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ELEVEN SPORTS 3 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17719&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ELEVEN SPORTS 4 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17717&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/GOLFCHANNEL.png",GOLF CHANNEL UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135060&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTEXTRA.png",POLSAT SPORT EXTRA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17617&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",EXTREME SPORTS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135046&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTKLUBHD.png",FIGHTKLUB UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135048&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png",POLSAT SPORT NEWS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17611&extension=ts
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339990&extension=ts
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 3 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339991&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/9Fr1uwn.png",CANAL+ SPORT 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339992&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/qHVs7Rl.png",CANAL+ SPORT HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339993&extension=ts
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 1 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339994&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/a6yc1EC.png",ELEVEN SPORTS 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339995&extension=ts
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 3 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339996&extension=ts
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 4 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339997&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT 1 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339998&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/AoPdCYZ.png",EUROSPORT 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340000&extension=ts
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340004&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/RP35ubv.png",CANAL + SPORT 3 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340005&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/3AkzSpT.png",CANAL + SPORT  4 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340006&extension=ts
+#EXTINF:-1 group-title="SPORT",CANAL SPORT
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340008&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png",CANAL+ SPORT 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340009&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/9Fr1uwn.png",CANAL+ SPORT 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340010&extension=ts
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 1 4K
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340011&extension=ts
+#EXTINF:-1 group-title="SPORT",POLSAT SPORT PREMIUM 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340013&extension=ts
+#EXTINF:-1 group-title="SPORT",POLSAT SPORT PREMIUM 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340014&extension=ts
+#EXTINF:-1 group-title="SPORT",POLSAT SPORT PREMIUM 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340015&extension=ts
+#EXTINF:-1 group-title="SPORT",POLSAT SPORT PREMIUM 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340016&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340017&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340018&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340019&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340020&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340021&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340022&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 7
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340023&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 8
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340024&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 9
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340025&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 10
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340026&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 11
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340027&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 12
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340028&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 13
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340029&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 14
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340030&extension=ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT EVENT 15
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=340031&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",✦●✦●      KIDS      ✦●✦●
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=197032&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/COMEDYCENTRAL.png",COMEDY CENTRAL UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17737&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/COMEDYCENTRALFAMILY.png",COMEDY CENTRAL FAMILY POLSKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=137415&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/USA/BABYTVHD.png",BABY TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=137302&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATJIMJAM.png",POLSAT JIM JAM UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135089&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BOOMERANG.png",BOOMERANG UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17772&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/CARTOONNETWORK.png",CARTOON NETWORK UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135018&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png",DISNEY XD UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135032&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png",DISNEY JUNIOR UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=135031&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKJUNIOR.png",NICK JR. UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17649&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKELODEON.png",NICKELODEON UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17648&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TELETOON.png",TELETOON UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17577&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MINIMINIHD.png",MINIMINI UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17662&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPABC.png",TVP ABC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=17540&extension=ts
+#EXTINF:-1 group-title="DZIECI",BOOMERANG HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339956&extension=ts
+#EXTINF:-1 group-title="DZIECI",NICKELODEON UKRAINE PLUTO TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339957&extension=ts
+#EXTINF:-1 group-title="DZIECI",DA VINCI HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339961&extension=ts
+#EXTINF:-1 group-title="DZIECI",CARTOONITO
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339967&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://i.imgur.com/6l33fXE.png",NICK JR
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339969&extension=ts
+#EXTINF:-1 group-title="DZIECI",NICKTOONS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339970&extension=ts
+#EXTINF:-1 group-title="DZIECI",CARTOON NETWORK HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339971&extension=ts
+#EXTINF:-1 group-title="DZIECI",BBC CBEEBIES
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339972&extension=ts
+#EXTINF:-1 group-title="DZIECI",DISNEY CHANNEL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339973&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://i.imgur.com/QeuqzkB.png",DISNEY JUNIOR
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339974&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://i.imgur.com/JfHGFjQ.png",DISNEY XD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339975&extension=ts
+#EXTINF:-1 group-title="DZIECI",4FUN KIDS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339976&extension=ts
+#EXTINF:-1 group-title="DZIECI",CARTOON NETWORK
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339979&extension=ts
+#EXTINF:-1 group-title="DZIECI",CBEEBIES
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339980&extension=ts
+#EXTINF:-1 group-title="DZIECI",DISNEY CHANNEL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339981&extension=ts
+#EXTINF:-1 group-title="DZIECI",DISNEY JUNIOR
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339982&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="https://i.imgur.com/6l33fXE.png",NICK
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339983&extension=ts
+#EXTINF:-1 group-title="DZIECI",NICK JR.
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339984&extension=ts
+#EXTINF:-1 group-title="DZIECI",NICKTOONS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=339985&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",✦●✦●       VIAPLAY      ✦●✦●
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=220841&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390273&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390262&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390257&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390256&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390255&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390254&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 7
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390253&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 8
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390252&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 9
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390251&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 10
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390272&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 11
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390271&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 12
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390270&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 13
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390269&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 14
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390268&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 15
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390267&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 16
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390266&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 17
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390265&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 18
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390264&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 19
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390263&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 20
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390261&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 21
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390260&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 22
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390259&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png",VIAPLAY XTRA 23
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=390258&extension=ts
+#EXTINF:-1 group-title="PPV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",✦●✦●       PPV      ✦●✦●
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=220852&extension=ts
+#EXTINF:-1 group-title="PPV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",PPV 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=220853&extension=ts
+#EXTINF:-1 group-title="PPV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",PPV 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=220854&extension=ts
+#EXTINF:-1 group-title="PPV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",PPV 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=220855&extension=ts
+#EXTINF:-1 group-title="PPV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",PPV 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=220856&extension=ts
+#EXTINF:-1 group-title="PPV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",PPV 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=220857&extension=ts
+#EXTINF:-1 group-title="PPV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",PPV 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C0:8A:B0&stream=220858&extension=ts
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="" tvg-name="PL: 13 Ulica" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/87d5e667e5bd556fef0bc1142acc83c3.png" group-title="Poland ➾ Movie",PL: 13 Ulica
+http://filex.tv:8080/Kashif2400/2400/316066
+#EXTINF:-1 tvg-id="" tvg-name="PL: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2926a999892b88ddfd688a81b56e4206.png" group-title="Poland ➾ Movie",PL: AMC
+http://filex.tv:8080/Kashif2400/2400/316067
+#EXTINF:-1 tvg-id="" tvg-name="PL: AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6d1bff8931805727a09ea57291ed398e.png" group-title="Poland ➾ Movie",PL: AXN
+http://filex.tv:8080/Kashif2400/2400/316068
+#EXTINF:-1 tvg-id="" tvg-name="PL: AXN Black" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8940f3afd5ec2bbeac8094b0420af06a.png" group-title="Poland ➾ Movie",PL: AXN Black
+http://filex.tv:8080/Kashif2400/2400/316069
+#EXTINF:-1 tvg-id="" tvg-name="PL: AXN Spin" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/02e3a86cb78507312f45c2066db0148c.png" group-title="Poland ➾ Movie",PL: AXN Spin
+http://filex.tv:8080/Kashif2400/2400/316070
+#EXTINF:-1 tvg-id="" tvg-name="PL: AXN White" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6eb591ac493fb0bd7a4814bf32465d74.png" group-title="Poland ➾ Movie",PL: AXN White
+http://filex.tv:8080/Kashif2400/2400/316071
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Film" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/54cff68b6254cb66c588ee3eafebf054.png" group-title="Poland ➾ Movie",PL: CANAL+ Film
+http://filex.tv:8080/Kashif2400/2400/316072
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/524e80b807006b992f74efd99450afae.png" group-title="Poland ➾ Movie",PL: CANAL+ Premium
+http://filex.tv:8080/Kashif2400/2400/316073
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Seriale" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fe9e74a82c8c642c4b1bbbcfb2170805.png" group-title="Poland ➾ Movie",PL: CANAL+ Seriale
+http://filex.tv:8080/Kashif2400/2400/316074
+#EXTINF:-1 tvg-id="" tvg-name="PL: CBS Europa" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f6d2bdaa8e12833479a38d9cf6001237.png" group-title="Poland ➾ Movie",PL: CBS Europa
+http://filex.tv:8080/Kashif2400/2400/316075
+#EXTINF:-1 tvg-id="" tvg-name="PL: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/00ec5e9df167e3baccd58fa840c0518d.png" group-title="Poland ➾ Movie",PL: Cinemax
+http://filex.tv:8080/Kashif2400/2400/316076
+#EXTINF:-1 tvg-id="" tvg-name="PL: Cinemax 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aa851877eb4a83692647263403412e45.png" group-title="Poland ➾ Movie",PL: Cinemax 2
+http://filex.tv:8080/Kashif2400/2400/316077
+#EXTINF:-1 tvg-id="" tvg-name="PL: Comedy Central" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f04f78fd3deb1fffa14d30ba9c0edaa7.png" group-title="Poland ➾ Movie",PL: Comedy Central
+http://filex.tv:8080/Kashif2400/2400/316078
+#EXTINF:-1 tvg-id="" tvg-name="PL: Comedy Central Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/b75f514f842791e2684788cf4a7f74ed.jpg" group-title="Poland ➾ Movie",PL: Comedy Central Extra
+http://filex.tv:8080/Kashif2400/2400/316079
+#EXTINF:-1 tvg-id="" tvg-name="PL: Epic Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/97b6e81871f08495122a28e92e64e3ea.png" group-title="Poland ➾ Movie",PL: Epic Drama
+http://filex.tv:8080/Kashif2400/2400/316080
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3e96520e87187259d13fcf3be23c44d.png" group-title="Poland ➾ Movie",PL: FilmBox Action
+http://filex.tv:8080/Kashif2400/2400/316081
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Arthouse" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/06b376e60da4b4479d958aa3f427b2ec.png" group-title="Poland ➾ Movie",PL: FilmBox Arthouse
+http://filex.tv:8080/Kashif2400/2400/316082
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5dcf2b8a5ed73d5ee29bbbbe3c74fde2.png" group-title="Poland ➾ Movie",PL: FilmBox Extra
+http://filex.tv:8080/Kashif2400/2400/316083
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7122de08b0f6eb7be80ceddd567e6447.png" group-title="Poland ➾ Movie",PL: FilmBox Family
+http://filex.tv:8080/Kashif2400/2400/316084
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/387f32afc3f9f0c890062c773ffd4a79.png" group-title="Poland ➾ Movie",PL: FilmBox Premium
+http://filex.tv:8080/Kashif2400/2400/316085
+#EXTINF:-1 tvg-id="" tvg-name="PL: Fox" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bc0ba2ddc1c12bf2b586815f4e15a6eb.png" group-title="Poland ➾ Movie",PL: Fox
+http://filex.tv:8080/Kashif2400/2400/316086
+#EXTINF:-1 tvg-id="" tvg-name="PL: Fox Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8c3f1b681c6b9a7ec6f6a1617253a8ad.png" group-title="Poland ➾ Movie",PL: Fox Comedy
+http://filex.tv:8080/Kashif2400/2400/316087
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4d90a7b367c6e93d21799f35035780e.png" group-title="Poland ➾ Movie",PL: HBO
+http://filex.tv:8080/Kashif2400/2400/316088
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0b078594e24efd2cb21bbcadb76326aa.png" group-title="Poland ➾ Movie",PL: HBO 2
+http://filex.tv:8080/Kashif2400/2400/316089
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2ad95e28c20ce8d36b7b60924a0f8a35.png" group-title="Poland ➾ Movie",PL: HBO 3
+http://filex.tv:8080/Kashif2400/2400/316090
+#EXTINF:-1 tvg-id="" tvg-name="PL: Kino Polska" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/674d6c2fdf5877196c504cf13d9096e8.png" group-title="Poland ➾ Movie",PL: Kino Polska
+http://filex.tv:8080/Kashif2400/2400/316091
+#EXTINF:-1 tvg-id="" tvg-name="PL: Kino Polska Muzyka" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f2cd3b54e14f83d074ebd18b75d251cf.png" group-title="Poland ➾ Movie",PL: Kino Polska Muzyka
+http://filex.tv:8080/Kashif2400/2400/316092
+#EXTINF:-1 tvg-id="" tvg-name="PL: Kino TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/fd99e74e93edfb34e8bd0b51f2de8809.png" group-title="Poland ➾ Movie",PL: Kino TV
+http://filex.tv:8080/Kashif2400/2400/316093
+#EXTINF:-1 tvg-id="" tvg-name="PL: Novela TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9210ebe280367fec6fff0412a48f0744.png" group-title="Poland ➾ Movie",PL: Novela TV
+http://filex.tv:8080/Kashif2400/2400/316094
+#EXTINF:-1 tvg-id="" tvg-name="PL: Paramount Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5cd24c29d3aa4cf6a05c08a2db55a8a7.png" group-title="Poland ➾ Movie",PL: Paramount Channel
+http://filex.tv:8080/Kashif2400/2400/316095
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Film" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5191cc9d3fd863e5639d2a767ceda84e.png" group-title="Poland ➾ Movie",PL: Polsat Film
+http://filex.tv:8080/Kashif2400/2400/316096
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Seriale" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/a0dca224f649cbb123e8b05aeff68561.png" group-title="Poland ➾ Movie",PL: Polsat Seriale
+http://filex.tv:8080/Kashif2400/2400/316097
+#EXTINF:-1 tvg-id="" tvg-name="PL: Romance" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/6601f235a4820046115c5e3a6fbf8bd4.png" group-title="Poland ➾ Movie",PL: Romance
+http://filex.tv:8080/Kashif2400/2400/316098
+#EXTINF:-1 tvg-id="" tvg-name="PL: sci-fi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf7e12625ebab813aa4a5ab714ad1e32.png" group-title="Poland ➾ Movie",PL: sci-fi
+http://filex.tv:8080/Kashif2400/2400/316099
+#EXTINF:-1 tvg-id="" tvg-name="PL: Sundance TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/be33cc805bc784ae650135818850ca10.png" group-title="Poland ➾ Movie",PL: Sundance TV
+http://filex.tv:8080/Kashif2400/2400/316100
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Fabula" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d57f0e760f2562daa1d235bdcfb4ac28.png" group-title="Poland ➾ Movie",PL: TVN Fabula
+http://filex.tv:8080/Kashif2400/2400/316101
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Seriale" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/65712b55f0b5b27aeb3c0a9c87718e6b.png" group-title="Poland ➾ Movie",PL: TVP Seriale
+http://filex.tv:8080/Kashif2400/2400/316102
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4804e7bb873143d8432c2fc55304730f.png" group-title="Poland ➾ Movie",PL: TVS
+http://filex.tv:8080/Kashif2400/2400/316103
+#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 202" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6aa5fffeb2f6698cb90711c9687d9c3f.png" group-title="Poland ➾ Movie",PL: VOD 202
+http://filex.tv:8080/Kashif2400/2400/316104
+#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 205" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/807cf31d1a0b8cf328c4fb8f1babdd83.png" group-title="Poland ➾ Movie",PL: VOD 205
+http://filex.tv:8080/Kashif2400/2400/316105
+#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 206" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/62bf21d0bb21fbc03d357edcfce505f4.png" group-title="Poland ➾ Movie",PL: VOD 206
+http://filex.tv:8080/Kashif2400/2400/316106
+#EXTINF:-1 tvg-id="" tvg-name="PL: Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/a92d9a728202c85ec107f2730c7c46b9.jpg" group-title="Poland ➾ Movie",PL: Warner TV
+http://filex.tv:8080/Kashif2400/2400/316107
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4Fun Dance" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b86ff63a571df5e13957e2136f7b9d2c.png" group-title="Poland ➾ Music",PL: 4Fun Dance
+http://filex.tv:8080/Kashif2400/2400/316108
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4Fun Gold Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland ➾ Music",PL: 4Fun Gold Hits
+http://filex.tv:8080/Kashif2400/2400/316109
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4Fun TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/116afa76b6010e7cba01105683acae6c.png" group-title="Poland ➾ Music",PL: 4Fun TV
+http://filex.tv:8080/Kashif2400/2400/316110
+#EXTINF:-1 tvg-id="" tvg-name="PL: Disco Polo Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12bc2acc704c67e3870ac07d024208a1.png" group-title="Poland ➾ Music",PL: Disco Polo Music
+http://filex.tv:8080/Kashif2400/2400/316111
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eska Rock TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fdfc787712f69fa59f4903bcf822ed02.png" group-title="Poland ➾ Music",PL: Eska Rock TV
+http://filex.tv:8080/Kashif2400/2400/316112
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eska TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cea651a34ce3e6cf04316e5c6f58e8f3.png" group-title="Poland ➾ Music",PL: Eska TV
+http://filex.tv:8080/Kashif2400/2400/316113
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV 90s" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/4aebc71246a299650b24d96c2e9a7d0a.jpg" group-title="Poland ➾ Music",PL: MTV 90s
+http://filex.tv:8080/Kashif2400/2400/316114
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV Polska" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b5ba95468faf2a01e2dfc0063f37c87e.png" group-title="Poland ➾ Music",PL: MTV Polska
+http://filex.tv:8080/Kashif2400/2400/316115
+#EXTINF:-1 tvg-id="" tvg-name="PL: Nuta TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/061cadc41946cea6d87a7305e5f503d5.png" group-title="Poland ➾ Music",PL: Nuta TV
+http://filex.tv:8080/Kashif2400/2400/316116
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polo TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b73864ce8364cbc604827060b5270953.png" group-title="Poland ➾ Music",PL: Polo TV
+http://filex.tv:8080/Kashif2400/2400/316117
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8b6f92120f1bdb7adfc3a921a1e55e7d.png" group-title="Poland ➾ Music",PL: Polsat Music
+http://filex.tv:8080/Kashif2400/2400/316118
+#EXTINF:-1 tvg-id="" tvg-name="PL: Power TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0fd8c7c5668f04857e8319ae4f48eb50.png" group-title="Poland ➾ Music",PL: Power TV
+http://filex.tv:8080/Kashif2400/2400/316119
+#EXTINF:-1 tvg-id="" tvg-name="PL: Stars TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c2306256f4d1f46460fe4dc2e8df79d.png" group-title="Poland ➾ Music",PL: Stars TV
+http://filex.tv:8080/Kashif2400/2400/316120
+#EXTINF:-1 tvg-id="" tvg-name="PL: Vox Music TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1e605c6c704997355a9ada5659e95f42.png" group-title="Poland ➾ Music",PL: Vox Music TV
+http://filex.tv:8080/Kashif2400/2400/316121
+#EXTINF:-1 tvg-id="" tvg-name="PL: Adventure" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9001ae89ec0323b232df0e01f167ebda.png" group-title="Poland ➾ Nature",PL: Adventure
+http://filex.tv:8080/Kashif2400/2400/316122
+#EXTINF:-1 tvg-id="" tvg-name="PL: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/87b6b7c1d370b39e5a27a12190bd4391.png" group-title="Poland ➾ Nature",PL: ANIMAL PLANET
+http://filex.tv:8080/Kashif2400/2400/316123
+#EXTINF:-1 tvg-id="" tvg-name="PL: BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/64ffbc139834792691b7c94a448ac112.png" group-title="Poland ➾ Nature",PL: BBC Earth
+http://filex.tv:8080/Kashif2400/2400/316124
+#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3e07007a40c8cfbb9b1f3da67edc37a.png" group-title="Poland ➾ Nature",PL: NAT GEO
+http://filex.tv:8080/Kashif2400/2400/316125
+#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ac4845bdac7ba84eed8649971e472708.png" group-title="Poland ➾ Nature",PL: NAT GEO Wild
+http://filex.tv:8080/Kashif2400/2400/316126
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viasat Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d872abdfa2ac547ecc3408dcf341767.png" group-title="Poland ➾ Nature",PL: Viasat Nature
+http://filex.tv:8080/Kashif2400/2400/316127
+#EXTINF:-1 tvg-id="" tvg-name="PL: Water Planet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0055e22b545f65d5c1427243570c0310.png" group-title="Poland ➾ Nature",PL: Water Planet
+http://filex.tv:8080/Kashif2400/2400/316128
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4Fun Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/def2f373ae714251530c0089cadae7aa.png" group-title="Poland ➾ Kids",PL: 4Fun Kids
+http://filex.tv:8080/Kashif2400/2400/316129
+#EXTINF:-1 tvg-id="" tvg-name="PL: Ale Kino+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f9aca5b74e9bb34141fc4b9abb06ffe1.png" group-title="Poland ➾ Kids",PL: Ale Kino+
+http://filex.tv:8080/Kashif2400/2400/316130
+#EXTINF:-1 tvg-id="" tvg-name="PL: Baby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fd355c10396e2f04c93ad98e7f9d995.png" group-title="Poland ➾ Kids",PL: Baby TV
+http://filex.tv:8080/Kashif2400/2400/316131
+#EXTINF:-1 tvg-id="" tvg-name="PL: Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5bda1e92679ba8eeb77067b56ad337c6.png" group-title="Poland ➾ Kids",PL: Boomerang
+http://filex.tv:8080/Kashif2400/2400/316132
+#EXTINF:-1 tvg-id="" tvg-name="PL: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0f7da7982fa0b9a48cc669a21cd19cd9.png" group-title="Poland ➾ Kids",PL: Cartoon Network
+http://filex.tv:8080/Kashif2400/2400/316133
+#EXTINF:-1 tvg-id="" tvg-name="PL: CBeebies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b0600575c26a2c2e55820b1ca7bfcb17.png" group-title="Poland ➾ Kids",PL: CBeebies
+http://filex.tv:8080/Kashif2400/2400/316134
+#EXTINF:-1 tvg-id="" tvg-name="PL: Da Vinci Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/7179a7cd6a0f5123d5d1deef81675892.png" group-title="Poland ➾ Kids",PL: Da Vinci Kids
+http://filex.tv:8080/Kashif2400/2400/316135
+#EXTINF:-1 tvg-id="" tvg-name="PL: Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7100d013931ad704c97e4082742171b2.png" group-title="Poland ➾ Kids",PL: Disney Channel
+http://filex.tv:8080/Kashif2400/2400/316136
+#EXTINF:-1 tvg-id="" tvg-name="PL: Disney Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b1ba4b81984b558b833b12792b131211.png" group-title="Poland ➾ Kids",PL: Disney Junior
+http://filex.tv:8080/Kashif2400/2400/316137
+#EXTINF:-1 tvg-id="" tvg-name="PL: Disney XD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/feb43bd0e37c845f765b10e13ee750d1.png" group-title="Poland ➾ Kids",PL: Disney XD
+http://filex.tv:8080/Kashif2400/2400/316138
+#EXTINF:-1 tvg-id="" tvg-name="PL: JimJam Polsat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/845f4c07817c175e823d9086532ec51b.png" group-title="Poland ➾ Kids",PL: JimJam Polsat
+http://filex.tv:8080/Kashif2400/2400/316139
+#EXTINF:-1 tvg-id="" tvg-name="PL: MiniMini+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/86f5712162a0e49be151a5b16e2fdc49.png" group-title="Poland ➾ Kids",PL: MiniMini+
+http://filex.tv:8080/Kashif2400/2400/316140
+#EXTINF:-1 tvg-id="" tvg-name="PL: Nick Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e7f38e78c7bb189b1c59b905083968a4.png" group-title="Poland ➾ Kids",PL: Nick Junior
+http://filex.tv:8080/Kashif2400/2400/316141
+#EXTINF:-1 tvg-id="" tvg-name="PL: nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1cb2153d9ccfa9c04096fd5a5f2ee276.png" group-title="Poland ➾ Kids",PL: nickelodeon
+http://filex.tv:8080/Kashif2400/2400/316142
+#EXTINF:-1 tvg-id="" tvg-name="PL: Nicktoons" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9cf6bb54ada3e7419482592825868c39.png" group-title="Poland ➾ Kids",PL: Nicktoons
+http://filex.tv:8080/Kashif2400/2400/316143
+#EXTINF:-1 tvg-id="" tvg-name="PL: TeleToon+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3aa9133ff3c527c25c7f926f749af06a.png" group-title="Poland ➾ Kids",PL: TeleToon+
+http://filex.tv:8080/Kashif2400/2400/316144
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP ABC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c1993fd53d5eeb9a3def6a608ea267dd.png" group-title="Poland ➾ Kids",PL: TVP ABC
+http://filex.tv:8080/Kashif2400/2400/316145
+#EXTINF:-1 tvg-id="" tvg-name="PL: Active Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2dfd0147b940c20e05508a4ca3f7e351.png" group-title="Poland ➾ LifeStyle",PL: Active Family
+http://filex.tv:8080/Kashif2400/2400/316146
+#EXTINF:-1 tvg-id="" tvg-name="PL: BBC Brit Polska" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/031f332d547a4b36b87c51acf5ab985f.png" group-title="Poland ➾ LifeStyle",PL: BBC Brit Polska
+http://filex.tv:8080/Kashif2400/2400/316147
+#EXTINF:-1 tvg-id="" tvg-name="PL: BBC First" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/38aafb142bb4b04282e1a277a8fe1298.png" group-title="Poland ➾ LifeStyle",PL: BBC First
+http://filex.tv:8080/Kashif2400/2400/316148
+#EXTINF:-1 tvg-id="" tvg-name="PL: BBC Lifestyle" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3f3b95b7ae00a43258fb2700198b452.png" group-title="Poland ➾ LifeStyle",PL: BBC Lifestyle
+http://filex.tv:8080/Kashif2400/2400/316149
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/812726221490a0613a84839d98841089.png" group-title="Poland ➾ LifeStyle",PL: CANAL+ 1
+http://filex.tv:8080/Kashif2400/2400/316150
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Domo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1c571edf76970e17b081ae170ee4133c.png" group-title="Poland ➾ LifeStyle",PL: CANAL+ Domo
+http://filex.tv:8080/Kashif2400/2400/316151
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/0b0740eb7ff783b99c5e9b91e4107be8.png" group-title="Poland ➾ LifeStyle",PL: CANAL+ Family
+http://filex.tv:8080/Kashif2400/2400/316152
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Kuchnia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bd68563b3c37075d8c31177c27a87205.png" group-title="Poland ➾ LifeStyle",PL: CANAL+ Kuchnia
+http://filex.tv:8080/Kashif2400/2400/316153
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Life Polska" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bcac66fa5dc49504f86569f6f83ec32e.png" group-title="Poland ➾ LifeStyle",PL: Discovery Life Polska
+http://filex.tv:8080/Kashif2400/2400/316154
+#EXTINF:-1 tvg-id="" tvg-name="PL: E!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/df1a70bb2d54964cc1e27ec414a01f40.png" group-title="Poland ➾ LifeStyle",PL: E!
+http://filex.tv:8080/Kashif2400/2400/316155
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eska TV Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/63eddfafa832d6d678a7af7a182796f7.png" group-title="Poland ➾ LifeStyle",PL: Eska TV Extra
+http://filex.tv:8080/Kashif2400/2400/316156
+#EXTINF:-1 tvg-id="" tvg-name="PL: Fokus TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/99d1f27fdb5cb0731d74a3f645e88bf0.png" group-title="Poland ➾ LifeStyle",PL: Fokus TV
+http://filex.tv:8080/Kashif2400/2400/316157
+#EXTINF:-1 tvg-id="" tvg-name="PL: Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a1960a99e21c7401a53f324ed2eb45b0.png" group-title="Poland ➾ LifeStyle",PL: Food Network
+http://filex.tv:8080/Kashif2400/2400/316158
+#EXTINF:-1 tvg-id="" tvg-name="PL: HGTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5ca903470e4da3dcaf2d5fdae1e319a5.png" group-title="Poland ➾ LifeStyle",PL: HGTV
+http://filex.tv:8080/Kashif2400/2400/316159
+#EXTINF:-1 tvg-id="" tvg-name="PL: Home TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/f154530ae936ea58ea50ce67018f5784.png" group-title="Poland ➾ LifeStyle",PL: Home TV
+http://filex.tv:8080/Kashif2400/2400/316160
+#EXTINF:-1 tvg-id="" tvg-name="PL: Nowa TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c17e136f9688ba8d2fde4011f19bfad5.png" group-title="Poland ➾ LifeStyle",PL: Nowa TV
+http://filex.tv:8080/Kashif2400/2400/316161
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1bf0509dca0ebab85591041d55d7ea21.png" group-title="Poland ➾ LifeStyle",PL: Polsat
+http://filex.tv:8080/Kashif2400/2400/316162
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad31ca903fd9927e8e2aee2a55452cc5.png" group-title="Poland ➾ LifeStyle",PL: Polsat 2
+http://filex.tv:8080/Kashif2400/2400/316163
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Cafe" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/708a3b64f0641cbebba99b5d3f6de9ef.png" group-title="Poland ➾ LifeStyle",PL: Polsat Cafe
+http://filex.tv:8080/Kashif2400/2400/316164
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Doku" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fceb2e61aafa436659806dda2d402462.png" group-title="Poland ➾ LifeStyle",PL: Polsat Doku
+http://filex.tv:8080/Kashif2400/2400/316165
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Games" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d2b386ce6e6872cbba6bc060c62f8a26.png" group-title="Poland ➾ LifeStyle",PL: Polsat Games
+http://filex.tv:8080/Kashif2400/2400/316166
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Play" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/2887139f17d4dc137a82b9b8f0f3f9ae.png" group-title="Poland ➾ LifeStyle",PL: Polsat Play
+http://filex.tv:8080/Kashif2400/2400/316167
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Rodzina" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/0bfcda9d76eb3edd5e0509fbfa345a46.png" group-title="Poland ➾ LifeStyle",PL: Polsat Rodzina
+http://filex.tv:8080/Kashif2400/2400/316168
+#EXTINF:-1 tvg-id="" tvg-name="PL: Puls 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/190515a04fd9282a2c43182c9de726d9.png" group-title="Poland ➾ LifeStyle",PL: Puls 2
+http://filex.tv:8080/Kashif2400/2400/316169
+#EXTINF:-1 tvg-id="" tvg-name="PL: Red Carpet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0b5f1bab21d26dc3973f6a66ab5c70be.png" group-title="Poland ➾ LifeStyle",PL: Red Carpet
+http://filex.tv:8080/Kashif2400/2400/316170
+#EXTINF:-1 tvg-id="" tvg-name="PL: Stopklatka TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/01239468e8e1173fc37f6151d9281ba6.png" group-title="Poland ➾ LifeStyle",PL: Stopklatka TV
+http://filex.tv:8080/Kashif2400/2400/316171
+#EXTINF:-1 tvg-id="" tvg-name="PL: StudioMed TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b822f19324f1b2cde5b0b84d87faff8d.png" group-title="Poland ➾ LifeStyle",PL: StudioMed TV
+http://filex.tv:8080/Kashif2400/2400/316172
+#EXTINF:-1 tvg-id="" tvg-name="PL: Super Polsat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/96eb6c90f96d4ad6c95e09981436dd95.png" group-title="Poland ➾ LifeStyle",PL: Super Polsat
+http://filex.tv:8080/Kashif2400/2400/316173
+#EXTINF:-1 tvg-id="" tvg-name="PL: TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4f6c18833fe32e3a6f1769bfa102c712.png" group-title="Poland ➾ LifeStyle",PL: TLC
+http://filex.tv:8080/Kashif2400/2400/316174
+#EXTINF:-1 tvg-id="" tvg-name="PL: TTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/15fc8247ab6dc5342f7dc4ca988b1115.png" group-title="Poland ➾ LifeStyle",PL: TTV
+http://filex.tv:8080/Kashif2400/2400/316175
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d349571a026c62598f2b46b6636d7aa.png" group-title="Poland ➾ LifeStyle",PL: TV 4
+http://filex.tv:8080/Kashif2400/2400/316176
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2c5f04c827ede67752b5a5830590f616.png" group-title="Poland ➾ LifeStyle",PL: TV 6
+http://filex.tv:8080/Kashif2400/2400/316177
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV Puls" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/af5d701870db3734f68dc56f34ede6cc.png" group-title="Poland ➾ LifeStyle",PL: TV Puls
+http://filex.tv:8080/Kashif2400/2400/316178
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV Republika" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/631373898d7a2282bfd80c9477a186d1.png" group-title="Poland ➾ LifeStyle",PL: TV Republika
+http://filex.tv:8080/Kashif2400/2400/316179
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV Torun" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/8d33ae433eaaf8d8b5b16d99645a69fd.png" group-title="Poland ➾ LifeStyle",PL: TV Torun
+http://filex.tv:8080/Kashif2400/2400/316180
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV TRWAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3ed508e70ca33943ea85c89c720173ba.png" group-title="Poland ➾ LifeStyle",PL: TV TRWAM
+http://filex.tv:8080/Kashif2400/2400/316181
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/106cd621d6f564c28b0da2289867c985.png" group-title="Poland ➾ LifeStyle",PL: TVC
+http://filex.tv:8080/Kashif2400/2400/316182
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0e6061e9b1e8f09b8157c3ba1beb67e2.png" group-title="Poland ➾ LifeStyle",PL: TVN
+http://filex.tv:8080/Kashif2400/2400/316183
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Style" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d31a9964df7d5eae90a99d76db384ee6.png" group-title="Poland ➾ LifeStyle",PL: TVN Style
+http://filex.tv:8080/Kashif2400/2400/316184
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14dfbcac09b4e07f8fad57a4ace98966.png" group-title="Poland ➾ LifeStyle",PL: TVP
+http://filex.tv:8080/Kashif2400/2400/316185
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/794ead2df72cd69a108a301b8be4d655.png" group-title="Poland ➾ LifeStyle",PL: TVP 1
+http://filex.tv:8080/Kashif2400/2400/316186
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/24a00e4280e41aa5abd59c4861bc3e4f.png" group-title="Poland ➾ LifeStyle",PL: TVP 2
+http://filex.tv:8080/Kashif2400/2400/316187
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Info" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/96439cf2be2ae76b1018aef648b32c2f.png" group-title="Poland ➾ LifeStyle",PL: TVP Info
+http://filex.tv:8080/Kashif2400/2400/316188
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Polonia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/4d5d8d496223b4149d0212bd5eb451e0.png" group-title="Poland ➾ LifeStyle",PL: TVP Polonia
+http://filex.tv:8080/Kashif2400/2400/316189
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Rozrywka" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/087e2f38b1ceeed2f8f06c2a3eac713e.png" group-title="Poland ➾ LifeStyle",PL: TVP Rozrywka
+http://filex.tv:8080/Kashif2400/2400/316190
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVT Zgorzelec" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/5dfcc55c4b088d025b9e81e96dd4adc5.jpeg" group-title="Poland ➾ LifeStyle",PL: TVT Zgorzelec
+http://filex.tv:8080/Kashif2400/2400/316191
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viasat Explore" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dccf90171da20bbc807f4f0a4b1b4416.png" group-title="Poland ➾ LifeStyle",PL: Viasat Explore
+http://filex.tv:8080/Kashif2400/2400/316192
+#EXTINF:-1 tvg-id="" tvg-name="PL: W Polsce" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/21bc67acfe9926129ed017b57c31bc08.png" group-title="Poland ➾ LifeStyle",PL: W Polsce
+http://filex.tv:8080/Kashif2400/2400/316193
+#EXTINF:-1 tvg-id="" tvg-name="PL: Zoom TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/515fbca039b0382bee7f002998ff7fa1.png" group-title="Poland ➾ LifeStyle",PL: Zoom TV
+http://filex.tv:8080/Kashif2400/2400/316194
+#EXTINF:-1 tvg-id="" tvg-name="PL: Белсат ТВ (Belsat)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1803840f05419e6d5b132a5d7c048148.svg" group-title="Poland ➾ LifeStyle",PL: Белсат ТВ (Belsat)
+http://filex.tv:8080/Kashif2400/2400/316195
+#EXTINF:-1 tvg-id="" tvg-name="PL: Biznes 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/01caeb85b13a8b9a095cc92368310335.png" group-title="Poland ➾ News",PL: Biznes 24
+http://filex.tv:8080/Kashif2400/2400/316196
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/6415c9aa1febe0fc675e302ad532582c.png" group-title="Poland ➾ News",PL: Polsat News
+http://filex.tv:8080/Kashif2400/2400/316197
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/da21b9203986193c046a6749874e2296.png" group-title="Poland ➾ News",PL: TVN 24
+http://filex.tv:8080/Kashif2400/2400/316198
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 24 BiS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/ed882067f248a4cb08dedf4131a4993f.png" group-title="Poland ➾ News",PL: TVN 24 BiS
+http://filex.tv:8080/Kashif2400/2400/316199
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Dokument" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/99d9e118f2944b07b5a917812c16932f.png" group-title="Poland ➾ Documentary",PL: CANAL+ Dokument
+http://filex.tv:8080/Kashif2400/2400/316200
+#EXTINF:-1 tvg-id="" tvg-name="PL: CBS Reality" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0bb4b67179871ccbc18d81a74ae8ede9.png" group-title="Poland ➾ Documentary",PL: CBS Reality
+http://filex.tv:8080/Kashif2400/2400/316201
+#EXTINF:-1 tvg-id="" tvg-name="PL: Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e9db84ebce7eef5d8b91b13883a918be.png" group-title="Poland ➾ Documentary",PL: Crime+ Investigation
+http://filex.tv:8080/Kashif2400/2400/316202
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e4546f701d423acc4cafdfad8454c28a.png" group-title="Poland ➾ Documentary",PL: Discovery History
+http://filex.tv:8080/Kashif2400/2400/316203
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Science Polska" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f819bf88e9a61dc95cda148b2f127d47.png" group-title="Poland ➾ Documentary",PL: Discovery Science Polska
+http://filex.tv:8080/Kashif2400/2400/316204
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5e3085bfa0a23c71340c2ecb0d3a2e4d.png" group-title="Poland ➾ Documentary",PL: Discovery World
+http://filex.tv:8080/Kashif2400/2400/316205
+#EXTINF:-1 tvg-id="" tvg-name="PL: History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3252380059b657ef423b13734fd62442.png" group-title="Poland ➾ Documentary",PL: History
+http://filex.tv:8080/Kashif2400/2400/316206
+#EXTINF:-1 tvg-id="" tvg-name="PL: History 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5aa694a3fce9da81b67fd2f39f7e6bb0.png" group-title="Poland ➾ Documentary",PL: History 2
+http://filex.tv:8080/Kashif2400/2400/316207
+#EXTINF:-1 tvg-id="" tvg-name="PL: Investigation Discovery" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6b9bfa6ab7160b4440f4cfaf5df7387b.png" group-title="Poland ➾ Documentary",PL: Investigation Discovery
+http://filex.tv:8080/Kashif2400/2400/316208
+#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO People" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84d273256ce861d31dbe7c3df444e1c0.png" group-title="Poland ➾ Documentary",PL: NAT GEO People
+http://filex.tv:8080/Kashif2400/2400/316209
+#EXTINF:-1 tvg-id="" tvg-name="PL: PLANETE+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/18681e22c9484d067d77048b1ec60a0d.png" group-title="Poland ➾ Documentary",PL: PLANETE+
+http://filex.tv:8080/Kashif2400/2400/316210
+#EXTINF:-1 tvg-id="" tvg-name="PL: Travel Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/285510ea8e1b512592ce34b110ad684d.png" group-title="Poland ➾ Documentary",PL: Travel Channel
+http://filex.tv:8080/Kashif2400/2400/316211
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Dokument" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/9e3a7084de207366ff1d5ef7422da7cb.png" group-title="Poland ➾ Documentary",PL: TVP Dokument
+http://filex.tv:8080/Kashif2400/2400/316212
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6552f2cce0d6a8ee371d17ce8ed79ecf.png" group-title="Poland ➾ Documentary",PL: TVP History
+http://filex.tv:8080/Kashif2400/2400/316213
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Kultura" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/448901fd717fd24520d0cbd4db49e099.png" group-title="Poland ➾ Documentary",PL: TVP Kultura
+http://filex.tv:8080/Kashif2400/2400/316214
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viasat History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a699fc4ea63e6da646c0feb2cf636418.png" group-title="Poland ➾ Documentary",PL: Viasat History
+http://filex.tv:8080/Kashif2400/2400/316215
+#EXTINF:-1 tvg-id="" tvg-name="PL: WP TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a8f93e5c9221d18fd90a539f6fa7506d.png" group-title="Poland ➾ Documentary",PL: WP TV
+http://filex.tv:8080/Kashif2400/2400/316216
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Now" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e78640bbfdfd6682aaecaf43c138d5f5.png" group-title="Poland",PL: CANAL+ Now
+http://filex.tv:8080/Kashif2400/2400/316217
+#EXTINF:-1 tvg-id="" tvg-name="PL: Novelas+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/44ba9e0550a40247e7f9328535dfb544.png" group-title="Poland",PL: Novelas+
+http://filex.tv:8080/Kashif2400/2400/316218
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polonia 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c57a1054106de8213c8c37518933d987.png" group-title="Poland",PL: Polonia 1
+http://filex.tv:8080/Kashif2400/2400/316219
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat News 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/970c9f8ca680e6ae94d0ab573b9e201c.jpg" group-title="Poland",PL: Polsat News 2
+http://filex.tv:8080/Kashif2400/2400/316220
+#EXTINF:-1 tvg-id="" tvg-name="PL: Tele 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6af61f36616ce9dc6b150a79969106d2.png" group-title="Poland",PL: Tele 5
+http://filex.tv:8080/Kashif2400/2400/316221
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV Kujawy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3f489d772a26b8f839d962d3c4a8b84f.jpg" group-title="Poland",PL: TV Kujawy
+http://filex.tv:8080/Kashif2400/2400/316222
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV Okazje" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/378179177ab134a90e10d62f8759de84.jpg" group-title="Poland",PL: TV Okazje
+http://filex.tv:8080/Kashif2400/2400/316223
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV Regionalna" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Poland",PL: TV Regionalna
+http://filex.tv:8080/Kashif2400/2400/316224
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4322b69c49c3893efe6ec27976603e7.png" group-title="Poland",PL: TVN 7
+http://filex.tv:8080/Kashif2400/2400/316225
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 3 Warszawa" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/137a1339b4766198379d29b494663f32.png" group-title="Poland",PL: TVP 3 Warszawa
+http://filex.tv:8080/Kashif2400/2400/316226
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4103f08667719cf9449e3df11e0a27a0.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport
+http://filex.tv:8080/Kashif2400/2400/316227
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/13195a8ec80cfd5754934fa6b004be0d.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport 2
+http://filex.tv:8080/Kashif2400/2400/316228
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0c5a073d3a1fab634642a6235cbb08d4.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport 3
+http://filex.tv:8080/Kashif2400/2400/316229
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/57f01cd46b2f8fb03af711f9db020bb4.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport 4
+http://filex.tv:8080/Kashif2400/2400/316230
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/6b3e922a78ab307d4fc4fc1779a72aa7.png" group-title="Poland ➾ Sports",PL: CANAL+ Sport 5
+http://filex.tv:8080/Kashif2400/2400/316231
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0558215aed968675061b7626e36d357e.png" group-title="Poland ➾ Sports",PL: Eurosport 1
+http://filex.tv:8080/Kashif2400/2400/316232
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cc3435593970b51fb9f5ee07e41bf4d8.png" group-title="Poland ➾ Sports",PL: Eurosport 2
+http://filex.tv:8080/Kashif2400/2400/316233
+#EXTINF:-1 tvg-id="" tvg-name="PL: Extreme Sports Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/566a8b323a7919b14ce15ac97f649bdf.png" group-title="Poland ➾ Sports",PL: Extreme Sports Channel
+http://filex.tv:8080/Kashif2400/2400/316234
+#EXTINF:-1 tvg-id="" tvg-name="PL: FIGHT BOX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/94bc6cae7e751f5d7d5bb3bb5d459aff.png" group-title="Poland ➾ Sports",PL: FIGHT BOX
+http://filex.tv:8080/Kashif2400/2400/316235
+#EXTINF:-1 tvg-id="" tvg-name="PL: FIGHT Klub" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/97f3ed75795cf15a6c66a0d8303b6729.png" group-title="Poland ➾ Sports",PL: FIGHT Klub
+http://filex.tv:8080/Kashif2400/2400/316236
+#EXTINF:-1 tvg-id="" tvg-name="PL: N Sport+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cfe387007fd73905c0ce8ee2442ec5ad.png" group-title="Poland ➾ Sports",PL: N Sport+
+http://filex.tv:8080/Kashif2400/2400/316238
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3f3f2765b30bb460c9f2c07a2303b90.png" group-title="Poland ➾ Sports",PL: Polsat Sport
+http://filex.tv:8080/Kashif2400/2400/316239
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ab6b2174511b2261698dc982b3123556.png" group-title="Poland ➾ Sports",PL: Polsat Sport Extra
+http://filex.tv:8080/Kashif2400/2400/316240
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport FIGHT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/004ea7bb81589ce24fbeb5aae3ee1a3c.png" group-title="Poland ➾ Sports",PL: Polsat Sport FIGHT
+http://filex.tv:8080/Kashif2400/2400/316241
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1a0067670263c42a460b113615cfd80a.png" group-title="Poland ➾ Sports",PL: Polsat Sport News
+http://filex.tv:8080/Kashif2400/2400/316242
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" group-title="Poland ➾ Sports",PL: Polsat Sport Premium 1
+http://filex.tv:8080/Kashif2400/2400/316243
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png" group-title="Poland ➾ Sports",PL: Polsat Sport Premium 2
+http://filex.tv:8080/Kashif2400/2400/316244
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" group-title="Poland ➾ Sports",PL: Polsat Sport Premium 3
+http://filex.tv:8080/Kashif2400/2400/316245
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png" group-title="Poland ➾ Sports",PL: Polsat Sport Premium 4
+http://filex.tv:8080/Kashif2400/2400/316246
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14bd016816e1cbf9669f1b542435f135.png" group-title="Poland ➾ Sports",PL: Polsat Sport Premium 5
+http://filex.tv:8080/Kashif2400/2400/316247
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c404f889f4046f09e2dca333dea70f2.png" group-title="Poland ➾ Sports",PL: Polsat Sport Premium 6
+http://filex.tv:8080/Kashif2400/2400/316248
+#EXTINF:-1 tvg-id="" tvg-name="PL: Sport Klub" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/d680eb597fdb3c1a0f42c96bf0cb5a54.png" group-title="Poland ➾ Sports",PL: Sport Klub
+http://filex.tv:8080/Kashif2400/2400/316249
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a1062d71be753ce76c06705131811c3e.png" group-title="Poland ➾ Sports",PL: TVP Sport
+http://filex.tv:8080/Kashif2400/2400/316250
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Turbo Xtra (DTX)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/ad2248ed73515048617dfac5243457f8.png" group-title="Poland ➾ Motor Sports",PL: Discovery Turbo Xtra (DTX)
+http://filex.tv:8080/Kashif2400/2400/316251
+#EXTINF:-1 tvg-id="" tvg-name="PL: Metro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/117d789ad96bae2c1e98539588cb315f.png" group-title="Poland ➾ Motor Sports",PL: Metro
+http://filex.tv:8080/Kashif2400/2400/316252
+#EXTINF:-1 tvg-id="" tvg-name="PL: Motowizja" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fa1e7ccd88c76e588efc31137d5c2e29.png" group-title="Poland ➾ Motor Sports",PL: Motowizja
+http://filex.tv:8080/Kashif2400/2400/316253
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Turbo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ab67e74b7ce8a0a8e73e5625898b3ea2.png" group-title="Poland ➾ Motor Sports",PL: TVN Turbo
+http://filex.tv:8080/Kashif2400/2400/316254
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6dbad401029775c28d9e7df7bbc58e81.png" group-title="Poland ➾ Football",PL: ELEVEN SPORTS 1
+http://filex.tv:8080/Kashif2400/2400/316255
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png" group-title="Poland ➾ Football",PL: ELEVEN SPORTS 2
+http://filex.tv:8080/Kashif2400/2400/316256
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" group-title="Poland ➾ Football",PL: ELEVEN SPORTS 3
+http://filex.tv:8080/Kashif2400/2400/316257
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" group-title="Poland ➾ Football",PL: ELEVEN SPORTS 4
+http://filex.tv:8080/Kashif2400/2400/316258
