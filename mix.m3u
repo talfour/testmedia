@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Darmowa",4FUN TV (576p) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 ,TVP 2 nowe
 http://109.233.89.166/TVP2_HD/index.m3u8
-https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="AlfaTVP.pl" tvg-logo="https://i.imgur.com/WwE7fhC.png" group-title="Darmowa",Alfa TVP (1080p)
 https://irylek.ct8.pl/stream/alfatvp
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Darmowa",BabyFirst (1080p)
